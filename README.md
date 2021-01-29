@@ -6,6 +6,8 @@ Here you'll find a simple APK I made to do a playlist by choosing your favorite 
 
 
 ## Libraries for python
-spotipy\n
+spotipy
+
 kivy 
+
 kivyMD
